@@ -1,0 +1,146 @@
+#a1{
+    color:rgba(243, 240, 235, 0.966);
+    background-color:rgb(61, 52, 45);
+    width: 100%;
+    height: 70px;
+    position:sticky;
+    left: 00px;
+    top: 0px;
+
+}
+#i{
+   margin-left: 20px; 
+    font-size: 40px;
+    margin-top: 10px;
+    
+}
+#aa1{
+    
+    margin-left: 800px;
+    color: cornsilk;
+    text-decoration: none;
+}
+#a2{
+    
+    margin-left: 20px;
+    color: cornsilk;
+    text-decoration: none;
+}
+#a3{
+    
+    margin-left: 20px;
+    color: cornsilk;
+    text-decoration: none;
+}
+#a4{
+    
+    margin-left: 20px;
+    color: cornsilk;
+    text-decoration: none;
+}
+#dd{
+margin-top: 20px;
+margin-left: 150px;
+margin-right: 150px;
+
+}
+#img{
+    margin-left:500px ;
+}
+h2{
+    text-align: center;
+    margin-top: 60px;
+    color: rgb(61, 52, 45);;
+}
+#ss{
+    color: rgb(61, 52, 45);;
+    margin-top: 40px;
+    margin-left:300px ;
+    margin-right: 300px;
+
+}
+#s2{
+    color: rgb(61, 52, 45);;
+    margin-top: 40px;
+    margin-left:300px ;
+    margin-right: 200px;
+}
+#s3{
+    color: rgb(61, 52, 45);;
+    margin-top: 40px;
+    margin-left:300px ;
+    margin-right: 200px;
+}
+#b{
+ margin-left:1200px;
+ margin-top: 20px;
+ color: rgb(61, 52, 45);;
+ border-radius:10px;
+ border-color:rgb(61, 52, 45);
+}
+#b:hover{
+    background-color: rgb(61, 52, 45);
+    color: white;
+}
+
+#hh{
+    text-align: center;
+    margin-top: 60px;
+    color: rgb(61, 52, 45);
+}
+#gg{
+    margin-top: 40px;
+    margin-left: 125px;
+    margin-right: 125px;
+}
+#ggg{
+    margin-top: 0px;
+    margin-left: 170px;
+    margin-right: 125px;
+}
+#l{
+    color:rgba(243, 240, 235, 0.966);
+    background-color:rgb(61, 52, 45);
+    width: 100%;
+    height: 100px;
+    
+ 
+}
+#so{
+    margin-top:0px;
+    color: cornsilk;
+    text-align: center;
+}
+#ee{
+    color: cornsilk;
+    margin-left: 694px;
+}
+#jj{
+    color: cornsilk;
+    margin-left: 15px; 
+}
+#mm{
+    color: cornsilk;
+    margin-left: 15px; 
+}
+#cc{
+    color: cornsilk;
+    margin-left: 15px;   
+}
+/* #ff{
+    position: fixed;
+    right: 10px;
+    bottom: 150px; */
+
+#em{
+    color: rgb(61, 52, 45);;
+    position: fixed;
+    right: 10px;
+    bottom: 140px;
+}
+#wh{
+    color:rgb(61, 52, 45);;
+    position: fixed;
+    right: 10px;
+    bottom: 184px;
+}
